@@ -34,10 +34,10 @@
   ];
 
   const contacts = [
-    { title: 'Email Umum',          value: 'halo@tagscammers.id',     href: 'mailto:halo@tagscammers.id' },
-    { title: 'Laporan & Kerjasama', value: 'partner@tagscammers.id',  href: 'mailto:partner@tagscammers.id' },
-    { title: 'Instagram',           value: '@tagscammers.id',         href: '#' },
-    { title: 'Telegram',            value: 't.me/tagscammers',        href: '#' }
+    { title: 'Email Umum',          value: 'tagscammers@gmail.com',     href: 'mailto:tagscammers@gmail.com' },
+    { title: 'Laporan & Kerjasama', value: 'partnertagscammers@gmail.com',  href: 'mailto:partnertagscammers@gmail.com' },
+    { title: 'Instagram',           value: '@tagscammers',         href: 'https://www.instagram.com/tagscammers/' },
+    { title: 'Telegram',            value: 't.me/tagscammerss',        href: 'https://t.me/tagscammerss' }
   ];
 </script>
 
